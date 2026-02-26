@@ -1,20 +1,15 @@
-<<<<<<< HEAD
-# planify_app
+# Planify App 💙
 
-A new Flutter project.
+Planify App adalah aplikasi To Do List sederhana yang aku buat menggunakan Flutter.
 
-## Getting Started
+## ✨ Fitur
+- Menambahkan task dengan deskripsi
+- Menampilkan daftar task
+- Tampilan UI dengan tema biru yang clean
+- Navigasi antar screen (Splash, Home, Add Task)
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# PortofolioNajla_flutter_Planify-App
->>>>>>> 55d6a7823e8fc4003959eb3f7bf40ab106bda804
+Project ini aku buat sebagai latihan memahami dasar pembuatan aplikasi mobile menggunakan Flutter.
